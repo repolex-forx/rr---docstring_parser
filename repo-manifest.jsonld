@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/rr-/docstring_parser/commit/8347d8fb347bd66e4bf5711d3df586357166944a",
       "git:hexsha": "8347d8fb347bd66e4bf5711d3df586357166944a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/rr-/docstring_parser/commit/efda62e48eb79145ec2d649ffe322a33c9f1e5e6",
